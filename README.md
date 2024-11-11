@@ -46,7 +46,10 @@ Plain language makes the content more accessible to a wider audience, ensuring t
  Using simple words like “start” instead of “initiate” helps the reader immediately understand the action without needing to pause and process a more complex term. It makes the content flow more naturally and reduces cognitive load.
 
 
-7. How can using examples and visuals help in explaining complex concepts more clearly? Examples and visuals provide concrete references that simplify abstract or complicated ideas. For instance, a flowchart can show the process of a task, while an example demonstrates how to apply a concept in real life, making it easier for the reader to grasp.
+7. How can using examples and visuals help in explaining complex concepts more clearly?
+
+
+Examples and visuals provide concrete references that simplify abstract or complicated ideas. For instance, a flowchart can show the process of a task, while an example demonstrates how to apply a concept in real life, making it easier for the reader to grasp.
 
 
 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
@@ -61,7 +64,8 @@ Screenshots: To demonstrate how to navigate a product interface.
 
 
 
-9. How do headings and subheadings improve the readability and organization of technical documents? Headings and subheadings break the document into manageable sections, allowing readers to quickly scan for relevant information. They also create a logical flow, making it easier for users to find the specific details they need.
+9. How do headings and subheadings improve the readability and organization of technical documents?
+ Headings and subheadings break the document into manageable sections, allowing readers to quickly scan for relevant information. They also create a logical flow, making it easier for users to find the specific details they need.
 
 
 10. What are some best practices for creating effective headings and subheadings?
@@ -88,7 +92,7 @@ The target audience for the product.
 
 
 
-12. How can you succinctly convey the purpose and key features of a product?
+12 . How can you succinctly convey the purpose and key features of a product?
 
 Start with a short sentence or two describing what the product does.
 
